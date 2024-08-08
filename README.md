@@ -75,7 +75,7 @@ BERT is a pre-trained model on a large corpus of text, making it versatile for n
 
 ### 💻 **Tech Stacks**
 ![Python](https://img.shields.io/badge/python-FFCA28?style=for-the-badge&logo=python&logoColor=black)
-![Hugging Face Model Hub](https://img.shields.io/badge/Hugging-Face-Model-Hub-FFCA28?style=for-the-badge&logo=Hugging-Face-Model-Hub&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/hugging-face-FFCA28?style=for-the-badge&logo=hugging-face&logoColor=black)
 
 </div>
 
