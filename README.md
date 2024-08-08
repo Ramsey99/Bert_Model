@@ -61,7 +61,7 @@ BERT is a pre-trained model on a large corpus of text, making it versatile for n
 - Easy integration with different datasets
 - Detailed training and evaluation scripts
 
-## Technologies Used
+## Technology Used
 <div align="center">
 
 ### **Libraries**
