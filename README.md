@@ -71,11 +71,11 @@ BERT is a pre-trained model on a large corpus of text, making it versatile for n
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/seaborn-FFCA28?style=for-the-badge&logo=seaborn&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-FFCA28?style=for-the-badge&logo=seaborn&logoColor=black)
 
 ### 💻 **Tech Stacks**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Hugging Face](https://img.shields.io/badge/hugging_face-FFCA28?style=for-the-badge&logo=hugging_face&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFCA28?style=for-the-badge&logo=hugging_face&logoColor=black)
 
 </div>
 
