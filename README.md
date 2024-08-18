@@ -66,7 +66,7 @@ BERT is a pre-trained model on a large corpus of text, making it versatile for n
 
 ### **Libraries**
 
-![Transformers](https://img.shields.io/badge/Transformers-%23F7DF1E.svg?style=for-the-badge&logo=transformers&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformer-%23F7DF1E.svg?style=for-the-badge&logo=transformer&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -75,7 +75,7 @@ BERT is a pre-trained model on a large corpus of text, making it versatile for n
 
 ### 💻 **Tech Stacks**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Hugging Face](https://img.shields.io/badge/hugging-face-FFCA28?style=for-the-badge&logo=hugging-face&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/hugging_face-FFCA28?style=for-the-badge&logo=hugging_face&logoColor=black)
 
 </div>
 
